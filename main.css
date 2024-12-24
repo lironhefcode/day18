@@ -16,3 +16,7 @@ h1{
     transition: width 1s;
     transition:height 1s ;
 }
+.ball2{
+    border-radius: 50%;
+    background-color: rgb(255, 0, 102);
+}
